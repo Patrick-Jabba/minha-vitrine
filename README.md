@@ -2,5 +2,5 @@
 
 #🤓 🖥️ 🕸️ 🖥️ 🤓
 
-Link: https://minha-vitrine-mu.vercel.app/
+Link: <a href="https://minha-vitrine-mu.vercel.app/" target="_blank">VITRINE</a>
 
